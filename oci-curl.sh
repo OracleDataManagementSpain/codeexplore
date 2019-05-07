@@ -119,4 +119,4 @@ function rawurlencode {
   done
 
   echo "${encoded}"
-} 
+}
