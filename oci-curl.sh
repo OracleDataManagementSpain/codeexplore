@@ -5,6 +5,7 @@
 # ex:
 # oci-curl iaas.us-ashburn-1.oraclecloud.com get "/20160918/instances?compartmentId=some-compartment-ocid"
 # oci-curl iaas.us-ashburn-1.oraclecloud.com post ./request.json "/20160918/vcns"
+# https://docs.cloud.oracle.com/iaas/Content/Resources/Assets/signing_sample_bash.txt
 
 function oci-curl {
     # TODO: update these values to your own
