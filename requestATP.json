@@ -1,0 +1,9 @@
+{
+"compartmentId" : "ocid1.compartment.oc1..aaaaaaaa24qo6imwxxxxxx",
+  "dbName" : "codedb",
+  "displayName" : "CODEEXPLORE-ATP",
+  "adminPassword" : "CodeExplore#2019",
+  "cpuCoreCount" : 1,
+  "dataStorageSizeInTBs" : 1,
+  "licenseModel" : "LICENSE_INCLUDED"
+}
